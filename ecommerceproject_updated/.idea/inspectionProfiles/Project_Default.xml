@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="helloproject.helloapp.views.HttpResponse" />
+          <option value="hosapp.models.depname" />
+          <option value="hosapp.models.depdesc" />
+          <option value="django.contrib.auth.models.authenticate" />
+          <option value="ekartproject.customers.views.customer" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
